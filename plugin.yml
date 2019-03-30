@@ -1,0 +1,6 @@
+name: HistoryMC_Arenas
+version: 1.0
+main: me.HistoryMC_Arenas.HistoryMC_Arenas
+authors: [PatetinhaaS2, N0CRYB4BY]
+commands:
+    arenas:
